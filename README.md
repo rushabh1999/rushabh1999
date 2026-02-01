@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rushabh Choudhary</h1>
 
 <h3 align="center">
-Aerospace Software Engineer | GNC and Navigation Systems | Embedded and Backend Software
+Software Engineer | GNC and Navigation Systems | Embedded and Backend Software
 </h3>
 
 <p align="center">
